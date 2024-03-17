@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "dish",
+  "identifier": "texture:373970-a656c380-b97d-4524-abf5-76d23f79ba84",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "aa368f37bb57905d725e175294a3eac9",
+  "assetLocator": "textures/dish.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 58,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 85,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "aa368f37bb57905d725e175294a3eac9",
+      "colorCount": 1440,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 8.020651408369838,
+      "pixelsHigh": 58,
+      "pixelsWide": 85
+    }
+  ]
+}

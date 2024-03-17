@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Lugimat1",
+  "identifier": "texture:239336-a656c380-b97d-4524-abf5-76d23f79ba84",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "5b2ff2d5f688c7b8508b3f9e39e2b832",
+  "assetLocator": "textures/Lugimat1.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 204,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 250,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "5b2ff2d5f688c7b8508b3f9e39e2b832",
+      "colorCount": 16081,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 9.393097664413,
+      "pixelsHigh": 204,
+      "pixelsWide": 250
+    }
+  ]
+}
